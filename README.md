@@ -1,4 +1,4 @@
 # Calculator-React
 Calculadora em React Native e TypeScript
 
-Layoy Feito baseado na calculadora do windows 10
+Layot Feito baseado na calculadora do windows 10, durante o estudo da faculdade 
